@@ -1,1 +1,2 @@
 status = [ "Test" ]
+use_codeowners = true
